@@ -1,0 +1,23 @@
+.invalid-feedback{
+    color: red;
+    display: inline-block;
+}
+ .form-control.ng-invalid.ng-touched{
+    border: 1px solid red;
+
+} 
+
+.container{
+    padding: 40px;
+}
+.title{
+    text-align: center;
+    font-size: 32px;
+}
+form{
+    padding: 40px;
+}
+button{
+    margin: 25px 326px;
+    padding: 10px 35px;
+}
